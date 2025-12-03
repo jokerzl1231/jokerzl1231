@@ -15,8 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+### 🎯 NOW: What I'm Focused On
 - 🔭 I’m currently working on Edge Intelligence
 - 🌱 I’m currently learning to have more attach towards the real reward
 - 📫 How to reach me: on github
 - 😄 Pronouns: whoever
 - ⚡ Fun fact: why not just to be yourself
+- 💡 Frameworks & Tools：Pytorch
+
+### 🚀 Future:Goals and Plans
+- 🇫🇷 Learning French
+  
+### ✨ Contious:Personality and Hobbies
+- 🏀 Sports：basketball & pingpong & Taekwondo
+- 🤔 Philosophical：Albert Camus（L'Étranger is good）
