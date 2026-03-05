@@ -30,3 +30,5 @@ Here are some ideas to get you started:
 ### ✨ Contious:Personality and Hobbies
 - 🏀 Sports：basketball & pingpong & Taekwondo
 - 🤔 Philosophical：Albert Camus（L'Étranger is good）
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokerzl1231)
