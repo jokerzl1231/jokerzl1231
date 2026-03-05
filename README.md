@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 - 🏀 Sports：basketball & pingpong & Taekwondo
 - 🤔 Philosophical：Albert Camus（L'Étranger is good）
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jokerzl1231)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luyo)
