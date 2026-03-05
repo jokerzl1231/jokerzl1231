@@ -1,7 +1,7 @@
 # Hi there, I'm luyo 👋 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Traveler+%7C+Nature+Lover+%7C+自然人;Birdwatcher+%7C+Seeker+%7C+找不到鸟人;Existentialist+%7C+Camus+Lover+%7C+活着然后活着" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Traveler+%7C+Nature+Lover+%7C+自然人;Birdwatcher+%7C+Seeker+%7C+找不到鸟人;Existentialist+%7C+Camus+Lover+%7C+活着" alt="Typing SVG"/>
 </p>
 
 ---
@@ -61,12 +61,13 @@
   - species count：100+ (from 2025)
 
 - **Cooking**:
-  - 中餐：
-  - 西餐：
+  - 番茄炒蛋
+  - 盐水虾
+  - Continue leaning to update...
 
 
-
-
+###  💼 Work
+> Anything I love, excel at, and that creates value for others and society.
 
 ### 📫 Connect with me
 <p align="left">
