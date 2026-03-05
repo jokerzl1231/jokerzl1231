@@ -1,69 +1,74 @@
 # Hi there, I'm luyo 👋 
 
-&lt;p align="center"&gt;
-  &lt;img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Binoculars+%7C+Birdwatcher;Compass+%7C+Travel+Lover;Existentialist+%7C+Camus+Lover" alt="Typing SVG" /&gt;
-&lt;/p&gt;
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Traveler+%7C+Nature Lover+自然人;Birdwatcher+%7C+Seeker+找不到鸟人;Existentialist+%7C+Camus+Lover+活着然后活着" alt="Typing SVG" />
+</p>
 
 ---
 
 ### 🚀 About Me
 
-&gt; *"Au milieu de l'hiver, j'apprenais enfin qu'il y avait en moi un été invincible."*
-&gt; 
-&gt; — Albert Camus, *Retour à Tipasa*
-
-- 🔭 **Focusing on**: Edge Intelligence (Edge AI & Distributed Computing)
-- 🌱 **Growth**: Learning to have more attachment towards the real reward
-- 🇫🇷 **Linguistics**: Currently conquering **French** (On y va !)
-- 💡 **Philosophy**: Why not just be yourself? ⚡
+> 💬 **Motto**
+> "La vraie générosité envers l'avenir consiste à tout donner au présent." —— Albert Camus
+> 对未来的真正慷慨，是把一切都献给现在。———— 阿尔贝·加缪
+- 🌱 **Direction**:  
+  Learning to have more attachment towards the real world！ Why not just be yourself? 
 
 ---
 
-### 🛠️ Tech Stack
+### Study
 
-&lt;p&gt;
-  &lt;img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /&gt;
-  &lt;img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /&gt;
-  &lt;img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /&gt;
-  &lt;img src="https://img.shields.io/badge/Edge%20AI-FF6B6B?style=for-the-badge&logo=nvidia&logoColor=white" /&gt;
-&lt;/p&gt;
+- 🎓 **Education** :  
+  B.Eng. Network Engineering
+  M.Eng. Software Engineering (in progress) 
 
+- 🔭 **Research**:  
+  Edge Intelligence & Distributed Computing
+
+- 💡 **Tech Stack / 技术栈**:  
+  **AI Framework**  
+  PyTorch · TensorRT
+  
+  **Programming Languages**  
+  Python · C/C++ · Bash
+  
+  **Edge Hardware**  
+  NVIDIA Jetson Nano · NVIDIA Jetson TX2 · Raspberry Pi 
+  
+  **System & DevOps**  
+  Linux · Docker · Git
+
+- 🌍 **Languages**
+
+  **Chinese** — Native
+  
+  **English** — Professional working proficiency（CET-6）
+  
+  **French** — learning now...
+  
 ---
 
-### 🌿 Life Beyond Code
+### ✨ Life
 
-**Obsessions**
-- 🔭 **Binoculars | Birdwatcher** — Chasing wingspans and migration routes
-- 🧭 **Compass | Travel Lover** — Collecting coordinates, not things
-- 🥋 **Taekwondo** — Black Belt mindset in life and code
-- 🏀 **Basketball** | **🏓 Pingpong** — Fast-twitch philosophy
+- **Sports**: 
+  -  Basketball ·  Pingpong ·  Taekwondo 
 
-**Currently Reading**
-&gt; *L'Étranger* — because the absurd deserves company
+- **Travel**
+  - **Domestic**: Anhui（黄山） · Fujian（厦门） · Gansu（兰州，张掖） · Guangdong（广州，深圳） · Guangxi（北海，涠洲岛） · Guizhou（贵阳，安顺） · Hainan（三亚） · Heilongjiang（哈尔滨） · Henan（郑州，洛阳） · Hubei（武汉） · Hunan（张家界） · Inner Mongolia（呼和浩特） · Jiangsu（南京，苏州） · Jiangxi（上饶-三清山） · Jilin（雪乡） · Qinghai（西宁） · Shaanxi（西安） · Shanxi（太原） · Sichuan（成都） · Taiwan（台北） · Tibet（拉萨，林芝） · Xinjiang（乌鲁木齐，吐鲁番，克拉玛依，禾木，喀纳斯） · Yunnan（丽江） · Zhejiang（杭州，金华，温州，诸暨） · Beijing（北京） · Chongqing（重庆） · Shanghai（上海） · Hong Kong（香港） · Macau（澳门）
+  - **International**: Egypt · Singapore · Malaysia · Thailand · Japan · South Korea · New Zealand · Australia
 
----
+- **Birdwatching**:
+  - species count：100+ (from 2025)
 
-### 📊 GitHub Stats
+- **Cooking**:
+  - 中餐：
+  - 西餐：
 
-&lt;p align="center"&gt;
-  &lt;img height="180em" src="https://github-readme-stats.vercel.app/api?username=jokerzl1231&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" /&gt;
-  &lt;img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokerzl1231&layout=compact&theme=vue-dark&hide_border=true" /&gt;
-&lt;/p&gt;
 
-&lt;p align="center"&gt;
-  &lt;img src="https://github-readme-streak-stats.herokuapp.com/?user=jokerzl1231&theme=vue-dark&hide_border=true" alt="GitHub Streak" /&gt;
-&lt;/p&gt;
 
----
 
-### 📫 Connect
 
-&lt;p align="left"&gt;
-  &lt;a href="https://github.com/jokerzl1231"&gt;&lt;img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /&gt;&lt;/a&gt;
-  &lt;a href="mailto:your.email@example.com"&gt;&lt;img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /&gt;&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p align="center"&gt;
-  &lt;img src="https://komarev.com/ghpvc/?username=jokerzl1231&label=Profile%20views&color=2496ED&style=flat" alt="访客统计" /&gt;
-&lt;/p&gt;
+### 📫 Connect with me
+<p align="left">
+  <a href="https://github.com/jokerzl1231  "><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white  " /></a>
+</p>
