@@ -1,7 +1,7 @@
 # Hi there, I'm luyo 👋 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Traveler+%7C+Nature Lover+自然人;Birdwatcher+%7C+Seeker+找不到鸟人;Existentialist+%7C+Camus+Lover+活着然后活着" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Traveler+%7C+Nature Lover;Birdwatcher+%7C+Seeker;Existentialist+%7C+Camus+Lover" alt="Typing SVG" />
 </p>
 
 ---
