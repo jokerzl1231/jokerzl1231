@@ -33,12 +33,12 @@
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jokerzl1231&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokerzl1231&layout=compact&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jokerzl1231&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokerzl1231&layout=compact&theme=radical" />
 </p>
 
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=jokerzl1231&theme=flat&column=7" alt="jokerzl1231 trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=jokerzl1231&theme=dracula&column=7" />
 </p>
 
 ---
