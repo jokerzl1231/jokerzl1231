@@ -1,7 +1,7 @@
 # Hi there, I'm luyo 👋 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Edge+Intelligence+Researcher;Focusing+on+Real+Rewards;Existentialist+%7C+Camus+Lover" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=A+Travel+Lover;A+Birdwatcher;Existentialist+%7C+Camus+Lover" alt="Typing SVG" />
 </p>
 
 ---
@@ -28,20 +28,7 @@
   - Why not just be yourself? ⚡
   - Deeply inspired by **Albert Camus** (Current recommendation: *L'Étranger*)
 
----
 
-### 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jokerzl1231&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jokerzl1231&layout=compact&theme=radical" />
-</p>
-
-<p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=jokerzl1231&theme=dracula&column=7" />
-</p>
-
----
 
 ### 📫 Connect with me
 <p align="left">
