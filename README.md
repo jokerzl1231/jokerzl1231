@@ -25,7 +25,7 @@
 - 🔭 **Research**:  
   Edge Intelligence & Distributed Computing
 
-- 💡 **Tech Stack / 技术栈**:  
+- 💡 **Tech Stack**:  
   **AI Framework**  
   PyTorch · TensorRT
   
