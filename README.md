@@ -38,6 +38,9 @@
   **System & DevOps**  
   Linux · Docker · Git
 
+  **Productivity & AI Tools**
+  Microsoft Office · Google Workspace · ChatGPT· Notion
+
 - 🌍 **Languages**
 
   **Chinese** — Native
@@ -63,6 +66,10 @@
 - **Cooking**:
   - 番茄炒蛋
   - 盐水虾
+  - 芹菜炒肉丝
+  - 电饭煲煮饭
+  - 香菜凉拌牛肉条
+  - 各类炖汤（使用炖锅/暂未实验）
   - Continue leaning to update...
 
 
