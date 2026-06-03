@@ -57,7 +57,7 @@
   -  Basketball ·  Pingpong ·  Taekwondo 
 
 - **Travel**
-  - **Domestic**: Anhui（黄山） · Fujian（厦门） · Gansu（兰州，张掖） · Guangdong（广州，深圳） · Guangxi（北海，涠洲岛） · Guizhou（贵阳，安顺） · Hainan（三亚） · Heilongjiang（哈尔滨） · Henan（郑州，洛阳） · Hubei（武汉） · Hunan（张家界） · Inner Mongolia（呼和浩特） · Jiangsu（南京，苏州） · Jiangxi（上饶-三清山） · Jilin（雪乡） · Qinghai（西宁） · Shaanxi（西安） · Shanxi（太原） · Sichuan（成都） · Taiwan（台北） · Tibet（拉萨，林芝） · Xinjiang（乌鲁木齐，吐鲁番，克拉玛依，禾木，喀纳斯） · Yunnan（丽江） · Zhejiang（杭州，金华，温州，诸暨） · Beijing（北京） · Chongqing（重庆） · Shanghai（上海） · Hong Kong（香港） · Macau（澳门）
+  - **Domestic**: Anhui（黄山） · Fujian（厦门） · Gansu（兰州，张掖） · Guangdong（广州，深圳） · Guangxi（北海，涠洲岛） · Guizhou（贵阳，安顺） · Hainan（三亚） · Heilongjiang（哈尔滨） · Henan（郑州，洛阳） · Hubei（武汉） · Hunan（张家界） · Inner Mongolia（呼和浩特） · Jiangsu（南京，苏州） · Jiangxi（上饶-三清山） · Jilin（雪乡） · Qinghai（西宁） · Shaanxi（西安） · Shanxi（太原） · Sichuan（成都） · Taiwan（台北） · Tibet（拉萨，林芝） · Xinjiang（乌鲁木齐，吐鲁番，克拉玛依，禾木，喀纳斯） · Yunnan（丽江） · Zhejiang（杭州，金华，温州，诸暨） · Beijing（北京） · Chongqing（重庆） · Shanghai（上海） · Hong Kong（香港） · Macau（澳门） ·Shandong（青岛，威海，烟台） 
   - **International**: Egypt · Singapore · Malaysia · Thailand · Japan · South Korea · New Zealand · Australia
 
 - **Birdwatching**:
