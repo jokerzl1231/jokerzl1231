@@ -57,19 +57,20 @@
   -  Basketball ·  Pingpong ·  Taekwondo 
 
 - **Travel**
-  - **Domestic**: Anhui（黄山） · Fujian（厦门） · Gansu（兰州，张掖） · Guangdong（广州，深圳） · Guangxi（北海，涠洲岛） · Guizhou（贵阳，安顺） · Hainan（三亚） · Heilongjiang（哈尔滨） · Henan（郑州，洛阳） · Hubei（武汉） · Hunan（张家界） · Inner Mongolia（呼和浩特） · Jiangsu（南京，苏州） · Jiangxi（上饶-三清山） · Jilin（雪乡） · Qinghai（西宁） · Shaanxi（西安） · Shanxi（太原） · Sichuan（成都） · Taiwan（台北） · Tibet（拉萨，林芝） · Xinjiang（乌鲁木齐，吐鲁番，克拉玛依，禾木，喀纳斯） · Yunnan（丽江） · Zhejiang（杭州，金华，温州，诸暨） · Beijing（北京） · Chongqing（重庆） · Shanghai（上海） · Hong Kong（香港） · Macau（澳门） ·Shandong（青岛，威海，烟台） 
-  - **International**: Egypt · Singapore · Malaysia · Thailand · Japan · South Korea · New Zealand · Australia
+  - **Domestic**: Anhui（黄山） · Fujian（厦门） · Gansu（兰州，张掖） · Guangdong（广州，深圳） · Guangxi（北海，涠洲岛） · Guizhou（贵阳，安顺） · Hainan（三亚） · Heilongjiang（哈尔滨） · Henan（郑州，洛阳） · Hubei（武汉） · Hunan（张家界） · Inner Mongolia（呼和浩特） · Jiangsu（南京，苏州） · Jiangxi（上饶-三清山） · Jilin（雪乡，长春） · Qinghai（西宁） · Shaanxi（西安） · Shanxi（太原） · Sichuan（成都，九寨沟，黄龙，塔公草原，新都桥，四姑娘山，稻城亚丁） · Taiwan（台北） · Tibet（拉萨，林芝） · Xinjiang（乌鲁木齐，吐鲁番，克拉玛依，禾木，喀纳斯） · Yunnan（丽江） · Zhejiang（杭州，金华，温州，诸暨，绍兴） · Beijing（北京） · Chongqing（重庆） · Shanghai（上海） · Hong Kong（香港） · Macau（澳门） · Shandong（青岛，威海，烟台）· Liaoning（沈阳）
+  - **International**: Egypt（Cairo，Luxor，Aswan，Hurghada） · Singapore · Malaysia · Thailand（Bangkok） · Japan（Fuji，Kyoto，Tokyo） · South Korea（Seoul，Jeju） · New Zealand（Auckland，Waitomo，Rotorua） · Australia（Sydney，Melbourne，Brisbane，Gold Coast）
 
 - **Birdwatching**:
   - species count：100+ (from 2025)
 
 - **Cooking**:
-  - 番茄炒蛋
-  - 盐水虾
-  - 芹菜炒肉丝
-  - 电饭煲煮饭
-  - 香菜凉拌牛肉条
-  - 各类炖汤（使用炖锅/暂未实验）
+  - 热菜：
+    - 番茄炒蛋 · 电饭煲煮饭 · 炒青菜 · 菠菜汤 · 盐水虾 · 芹菜炒肉丝 · 煎饺 · 咸鸭蛋菠菜 · 煮水饺 · 煮泡面
+    - 空气炸锅：烤番薯
+  - 凉菜：
+    - 香菜凉拌牛肉条
+  - 暂未实验：
+    - 各类炖汤（使用炖锅/暂未实验）
   - Continue leaning to update...
 
 
